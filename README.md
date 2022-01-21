@@ -19,19 +19,13 @@ Baselines:
 If you use the code, please cite the following paper:
 
 <pre>  
-@article{DBLP:journals/corr/abs-2111-11108,
-  author    = {David Campos and
-               Tung Kieu and
-               Chenjuan Guo and
-               Feiteng Huang and
-               Kai Zheng and
-               Bin Yang and
-               Christian S. Jensen},
-  title     = {Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional
-               Ensembles - Extended Version},
-  journal   = {CoRR},
-  volume    = {abs/2111.11108},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2111.11108},
+@article{pvldb/Ca22,
+  author    = {David Campos and Tung Kieu and Chenjuan Guo and Feiteng Huang and Kai Zheng and Bin Yang and Christian S. Jensen},
+  title     = {{Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles}},
+  journal   = {{PVLDB}},
+  volume    = {15},
+  number    = {3},
+  pages     = {611--623},
+  year      = {2022}
 }
 </pre> 
