@@ -20,7 +20,8 @@ If you use the code, please cite the following paper:
 
 <pre>  
 @article{pvldb/Ca22,
-  author    = {David Campos and Tung Kieu and Chenjuan Guo and Feiteng Huang and Kai Zheng and Bin Yang and Christian S. Jensen},
+  author    = {David Campos and Tung Kieu and Chenjuan Guo and Feiteng Huang and Kai Zheng and Bin Yang 
+               and Christian S. Jensen},
   title     = {{Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles}},
   journal   = {{PVLDB}},
   volume    = {15},
