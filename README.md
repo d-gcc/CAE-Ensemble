@@ -13,3 +13,25 @@ How to run the model:
 
 Baselines:
  * Use the same structure as the CAE-Ensemble model, just using their specific parameters.
+
+# Citation
+
+If you use the code, please cite the following paper:
+
+<pre>  
+@article{DBLP:journals/corr/abs-2111-11108,
+  author    = {David Campos and
+               Tung Kieu and
+               Chenjuan Guo and
+               Feiteng Huang and
+               Kai Zheng and
+               Bin Yang and
+               Christian S. Jensen},
+  title     = {Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional
+               Ensembles - Extended Version},
+  journal   = {CoRR},
+  volume    = {abs/2111.11108},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2111.11108},
+}
+</pre> 
